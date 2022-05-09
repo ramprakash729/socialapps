@@ -12,7 +12,7 @@ class App extends React.Component {
     // const { posts } = this.props;
     console.log('Props', this.props);
     return <div>App</div>;
-
+    //hi
     // return (
     //   <div>
     //     <PostList posts={posts} />
