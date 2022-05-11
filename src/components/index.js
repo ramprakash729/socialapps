@@ -1,4 +1,4 @@
-import PostList from './PostList';
 import App from './App';
+import PostList from './PostList';
 
-export { PostList, App };
+export { App, PostList };
